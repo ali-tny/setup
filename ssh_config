@@ -1,0 +1,11 @@
+Host aws
+	User ubuntu
+	HostName ----
+	IdentityFile ~/.ssh/ali-aws-ireland.pem
+	ForwardAgent yes
+
+Host spark
+	User ec2-user
+	HostName ----
+	IdentityFile ~/.ssh/ali-aws-ireland.pem
+	ForwardAgent yes
