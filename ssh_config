@@ -1,3 +1,6 @@
+# General settings (stop timeout)
+ServerAliveInterval 120
+
 Host aws
 	User ubuntu
 	HostName ----
