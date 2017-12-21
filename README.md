@@ -9,7 +9,7 @@ Setup tasks
       preview plus, vimium, video speed controller) 
     - can I / do I want to just sign into a chrome profile? 
 - create ssh key, authenticate with github and clone repo
-- install fish, autojump 
+- install fish, autojump, [bass](https://github.com/edc/bass)
 - install git, (mini?)conda
     - remember conda notebook
 - install vim packages (pathogen, nerdtree, syntactic)
